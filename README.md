@@ -15,10 +15,11 @@ The interactions between swimmers are modeled using the Oseen tensor, which serv
 
 ## Project Structure
 
-This repository is organized into two main directories containing the analysis notebooks:
+This repository is organized into several directories:
 
 -   `mathematica_notebooks/`: Contains the core simulations and analyses performed in Wolfram Mathematica.
 -   `jupyter_notebooks/`: Contains supplementary analyses and plotting performed in Python.
+-   `docs/`: Contains project documentation including the final report, presentation slides, and reference materials.
 -   `data/`: Intended for raw data files.
 -   `plots/`: Intended for generated plots and figures.
 
